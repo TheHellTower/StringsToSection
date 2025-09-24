@@ -1,5 +1,7 @@
 # StringsToSection
 
+[![CodeFactor](https://www.codefactor.io/repository/github/thehelltower/stringstosection/badge)](https://www.codefactor.io/repository/github/thehelltower/stringstosection)
+
 ## 📜 What is StringsToSection ?
 
 StringsToSection is a **string relocation & hiding tool** for .NET assemblies.
